@@ -22,6 +22,13 @@ A simple note-taking desktop application built with Python and Tkinter.
 - **Bubble Sort** — used for sorting notes by name, date, or size
 - **Edit Distance (Levenshtein)** — used for search matching
 
+## User Interface
+<img width="1011" height="793" alt="image" src="https://github.com/user-attachments/assets/e1af8a4c-79b1-4303-be41-01fab070dc56" />
+<img width="1018" height="800" alt="image" src="https://github.com/user-attachments/assets/9b3fc3ab-fe41-426c-9f4b-b21051c626f1" />
+<img width="1017" height="799" alt="image" src="https://github.com/user-attachments/assets/89ff84cd-34ac-47b3-8dfb-be63675f1413" />
+<img width="1022" height="807" alt="image" src="https://github.com/user-attachments/assets/d7576041-42d0-4552-962e-91c7f73df2a2" />
+<img width="1013" height="807" alt="image" src="https://github.com/user-attachments/assets/0e7050e5-e7f6-4c0e-9f3c-b39d92cf0efa" />
+
 ## How to Run
 
 ```bash
