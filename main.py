@@ -1,7 +1,7 @@
 import os
 import tkinter as tk
 from datetime import datetime
-from iNotes_classes import Note
+from models import Note
 from tkinter import messagebox
 
 class WindowBuilder:
